@@ -1,0 +1,14 @@
+{
+    "license": "UNLICENSED",
+    "require": {
+        "league/uri": "^5.2"
+    },
+    "require-dev": {
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "minimum-stability": "dev",
+    "name": "newridetech/october-plugin-url-fixer",
+    "prefer-stable": true
+}
